@@ -1,0 +1,1 @@
+Não sei que rumo vai tomar esse material hoje, aqui está sendo um espaço onde compartilho os conteúdos que estou desenvolvendo durante um curso de análise de dados aplicado para claude code, pretendo divulgar agentes e skills além de ter toda a prática do estudo aqui, para já criar o hábito de utilização do Git, de qualquer forma é isso kkkk
